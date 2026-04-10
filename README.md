@@ -5,22 +5,6 @@
 <head>
   <meta charset="UTF-8">
   <title>ASCII Art</title>
-  <style>
-    body {
-      background-color: black;
-      color: #00ffcc;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-      font-family: monospace;
-    }
-    pre {
-      font-size: 10px;
-      line-height: 10px;
-    }
-  </style>
 </head>
 <body>
 
