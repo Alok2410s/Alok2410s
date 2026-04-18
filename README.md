@@ -24,7 +24,7 @@
 
                
                     
-                 <img width="300" height="400" alt="giphy" src="https://github.com/user-attachments/assets/b7d11221-5e9d-4ba1-a666-b0471385431d" />
+                                                  <img width="300" height="400" alt="giphy" src="https://github.com/user-attachments/assets/b7d11221-5e9d-4ba1-a666-b0471385431d" />
   ⠀⠀
 </pre>
 
@@ -32,5 +32,4 @@
 </html>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
