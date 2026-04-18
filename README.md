@@ -25,11 +25,11 @@
 </body>
 </html>
 <br></br>
-<br></br>
-
+<hr>
 <div id="header" align="center">
                <img width="300" height="400" alt="giphy" src="https://github.com/user-attachments/assets/b7d11221-5e9d-4ba1-a666-b0471385431d" align = "centre"/>
-</div>  
+</div> 
+</hr>
 <br></br>
 <br></br>
 
