@@ -22,6 +22,8 @@
                                                 ⣿⢿⣽⣿⣿⣿⣿⣿⣿⣿⣿⣏⢿⣟⣷⠈⣻⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀
                                                 ⠙⢻⢿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢸⣿⣿⡆⣼⣿⣿⣿⣿⡀⠀⠀⠀⠀
 </pre>
+</body>
+</html>
 
 <div id="header" align="center">
                <img width="300" height="400" alt="giphy" src="https://github.com/user-attachments/assets/b7d11221-5e9d-4ba1-a666-b0471385431d" align = "centre"/>
@@ -38,6 +40,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/> 
@@ -46,25 +49,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-</body>
-</html>
-name: Latest blog post workflow
-on:
-  schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
-  workflow_dispatch:
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repos README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=" alt="GitHub Streak" /></a>
 
 
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
