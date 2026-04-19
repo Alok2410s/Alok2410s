@@ -1,4 +1,5 @@
 About:
+<br></br>
 I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - :telescope: I’m working on my skills with the help of creating projects.
