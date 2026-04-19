@@ -1,7 +1,6 @@
-About:
-<br></br>
+About:<pre>
 I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
+</pre>
 - :telescope: I’m working on my skills with the help of creating projects.
 
 - :seedling: Exploring Technical Content Writing.
