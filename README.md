@@ -11,7 +11,7 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
 <br></br>
 <hr>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/alok-kumar-8a6350281">
+  <a href="https://www.linkedin.com/in/alok-kumar-8a6350281?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
