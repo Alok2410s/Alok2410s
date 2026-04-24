@@ -32,10 +32,6 @@ I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 </hr>
-<br></br>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alok2410s&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 
 
