@@ -1,6 +1,6 @@
 About:
 
-    I am a Student
+--- I am a Student ----
 -  I’m working on my skills with the help of creating projects.
 
 -  Exploring Technical Content Writing.
