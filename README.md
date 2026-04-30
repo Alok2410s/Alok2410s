@@ -5,8 +5,6 @@ I am a Student
 -  Exploring Technical Content Writing.
 
 -  In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [!Gmail Badge](https://img.shields.io/badge/gmail-blue-red?style=flat&logo=gmail&logoColor=white)]ak0144709@gmail.com
 <br></br>
 <hr>
 <div id="badges">
