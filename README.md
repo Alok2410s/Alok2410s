@@ -1,12 +1,12 @@
 About:
-I am a Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :telescope: I’m working on my skills with the help of creating projects.
+I am a Student
+-  I’m working on my skills with the help of creating projects.
 
-- :seedling: Exploring Technical Content Writing.
+-  Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+-  In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alok-kumar-8a6350281?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- :mailbox:How to reach me: [!Gmail Badge](https://img.shields.io/badge/gmail-blue-red?style=flat&logo=gmail&logoColor=white)]ak0144709@gmail.com
 <br></br>
 <hr>
 <div id="badges">
