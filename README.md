@@ -8,9 +8,7 @@ About:
 -  In my free time, I solve problems on Leetcode and read tech articles.
 <br></br>
 <hr>
-
-<a href="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajJrc2FlMjloZHU3d3FpdWNxeW9mZ2EwM2szNnhnYnZsMzZkbmprdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVQ9qp42uN13oog0nI/giphy.gif">
-<div id="badges" width="40" heigth="50">
+<div id="badges">
   <a href="https://www.linkedin.com/in/alok-kumar-8a6350281?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
