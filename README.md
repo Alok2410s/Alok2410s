@@ -1,10 +1,11 @@
 About:
- <pre>I am a Student</pre>
+
+I am a Student
 -  I’m working on my skills with the help of creating projects.
 
 -  Exploring Technical Content Writing.
 
--  In my free time, I solve problems on GeeksforGeeks and read tech articles.
+-  In my free time, I solve problems on Leetcode and read tech articles.
 <br></br>
 <hr>
 <div id="badges">
