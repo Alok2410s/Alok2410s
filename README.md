@@ -1,5 +1,6 @@
 < img src=
-"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg0OWR6djB1OHBwcDVkOGVza3IwNnllNm9peW42NGs2eXJ6MWNmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img width="382" height="480" alt="image" src="https://github.com/user-attachments/assets/7d2c4da0-95bf-45e4-a94f-aa673ec94821" />
+ />
 
 <hr>
 <div id="badges">
