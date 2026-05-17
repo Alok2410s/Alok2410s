@@ -1,12 +1,5 @@
-About:
+<a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg0OWR6djB1OHBwcDVkOGVza3IwNnllNm9peW42NGs2eXJ6MWNmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
---- I am a Student ---
--  I’m working on my skills with the help of creating projects.
-
--  Exploring Technical Content Writing.
-
--  In my free time, I solve problems on Leetcode and read tech articles.
-<br></br>
 <hr>
 <div id="badges">
   <a href="https://www.linkedin.com/in/alok-kumar-8a6350281?utm_source=share_via&utm_content=profile&utm_medium=member_android">
