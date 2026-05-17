@@ -1,6 +1,6 @@
-< img src=
-<img width="382" height="480" alt="image" src="https://github.com/user-attachments/assets/7d2c4da0-95bf-45e4-a94f-aa673ec94821" />
- />
+
+
+<img width="200" height="200" align="center" alt="image" src="https://github.com/user-attachments/assets/7d2c4da0-95bf-45e4-a94f-aa673ec94821" />
 
 <hr>
 <div id="badges">
