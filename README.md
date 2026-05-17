@@ -1,4 +1,5 @@
-<a href="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg0OWR6djB1OHBwcDVkOGVza3IwNnllNm9peW42NGs2eXJ6MWNmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+< img src=
+"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWg0OWR6djB1OHBwcDVkOGVza3IwNnllNm9peW42NGs2eXJ6MWNmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
 <hr>
 <div id="badges">
