@@ -1,9 +1,9 @@
-
-
-<img width="200" height="200" align="center" alt="image" src="https://github.com/user-attachments/assets/7d2c4da0-95bf-45e4-a94f-aa673ec94821" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <hr>
-<div id="badges">
+<div id="badges"  align="center">
   <a href="https://www.linkedin.com/in/alok-kumar-8a6350281?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
