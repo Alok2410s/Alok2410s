@@ -23,5 +23,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 </hr>
-(<img width="845" height="603" alt="image" src="https://github.com/user-attachments/assets/ff125bb9-1f59-41d2-aa23-a75abf96d30d" />
-)
