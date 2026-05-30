@@ -23,3 +23,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 </hr>
+
+![GitHub Contribution Chart](<img width="845" height="603" alt="contributions" src="https://github.com/user-attachments/assets/ca7249ce-2f66-41bf-a882-9b6353bdfa54" />
+)
